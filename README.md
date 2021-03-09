@@ -2,7 +2,10 @@
 
 ## _Responsive Sidebar Menu_
 
+### Demo
+
 ![Development Demo](assets/gif/demo.gif)
+Note: the colors of the gif do not represent the actual colors of the project
 
 ### Description
 
@@ -11,10 +14,9 @@ The intent of this development was to create the beginning of an admin dashboard
 ### For the development.
 
 - HTML
-- Vanilla Javascript
+- Javascript
 - CSS
 - Font Awesome 5.15.2
--
 
 ### To run this project
 
