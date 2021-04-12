@@ -25,3 +25,10 @@ faBars.addEventListener('click', () => {
     toggleClass('.navigation', 'navigationOpen');
     removeClass('.search', 'top100PercOp1');
 });
+
+/* function to ADD a CLICK event listener to the CLOSE BUTTON DIV SEARCH */
+const closeSearch = document.querySelector('.closeSearch');
+closeSearch.addEventListener('click', () => {
+    toggleClass('.search', 'top100PercOp1');
+    removeClass('.navigation', 'navigationOpen');
+});
