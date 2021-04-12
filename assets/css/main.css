@@ -116,7 +116,7 @@ header {
 }
 .navigationOpen,
 .navigation:hover {
-  width: 300px;
+  width: 200px;
   z-index: 2;
 }
 .navigation ul {
@@ -159,7 +159,7 @@ header {
 /* Content - BEGIN */
 .content {
   flex: 1;
-  padding: 120px 15px 20px 15px;
+  padding: 50px 15px 20px 15px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -168,7 +168,7 @@ header {
 }
 .content .blockTitle {
   text-align: justify;
-  padding: 20px 10px;
+  padding: 20px 10px 30px 10px;
   margin: 40px 0;
   border-bottom: 1px dashed;
 }
